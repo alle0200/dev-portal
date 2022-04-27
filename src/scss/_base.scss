@@ -7,13 +7,14 @@ body{
 
 img
 {
-	max-width: 100%;
+	max-width: 50%;
 }
 
 .container{
 	width: 100%;
+	max-width: 100%;
 	margin: 0px auto;
-	padding: 0px;
+	padding: 2%;
 	box-sizing: border-box;
 
 	display: flex;
@@ -110,4 +111,29 @@ img
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.headdiv
+{
+	width: 100%;
+	background-color: $flexboxcolor;
+
+	margin: 0 auto;
+	padding-top: 1.5%;
+	padding-bottom: 2.5%;
+
+	font-weight: 700;
+}
+
+h1
+{
+	margin: 2%;
+}
+
+.miniContainer {
+	display: flex;
+	margin: 1% auto;
+	width: calc(33.333333333333333333333333333333333333333333333333% - $flexboxmargin - $flexboxpadding);;
+	align-items: center;
+	justify-content: center;
 }
