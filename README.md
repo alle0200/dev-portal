@@ -1,5 +1,11 @@
-# [Allie's Custom HTML5 Boilerplate]
+# [Allie's Dev Portal]
 
-A custom boilerplate made for Creative Web Development. This boilerplate was built with HTML5 and dart-sass. It includes an index page, a 404 page, placeholder favicons, a humans.txt file, scss files, and some image icons.
-
-This boilerplate is built off of the boilerplate from (https://html5boilerplate.com/).
+A dev portal built out of the custom boilerplate I made earlier in the semester. It has links to all of the other projects I've completeed. Most notably, it links to the following:
+* My GitHub Page
+* My Zsh Bash Me Assignment
+* My Commitment Assignment
+* Our Exquisite Corpse Project
+* My Custom Boilerplate
+* My Parallax Narrative
+* My Google Analytics
+* My Creative Project
